@@ -1,0 +1,3 @@
+## A number of potential exercises for participants in this Neuroinformatics tutorial
+
+#### 1...
