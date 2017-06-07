@@ -1,6 +1,6 @@
 # Part 1 - Resources for computational modellers
 
-## Experimental datasets
+## 1.1 Experimental datasets
 
 #### Allen Cell Types Database
     
@@ -17,7 +17,7 @@
 #### C. elegans: WormBase/WormAtlas
 
 
-## Structured data from literature 
+## 1.2 Structured data from literature 
 
 #### Neuroelectro
 
@@ -29,7 +29,7 @@
  
  
 
-## Analysis tools
+## 1.3 Analysis tools
 
 #### Elephant
 
@@ -41,7 +41,7 @@
  
 
 
-## Simulation environments 
+## 1.4 Simulation environments 
 (v brief intro here, covered in other tutorials...)
 
 #### NEURON
@@ -56,7 +56,7 @@
  
  
 
-## Model sharing
+## 1.5 Model sharing
 
 #### ModelDB
 
@@ -73,7 +73,7 @@ Rescience...
  
 
 
-## Computing infrastructure
+## 1.6 Computing infrastructure
 
 #### NSG
 
@@ -85,7 +85,7 @@ Rescience...
  
  
 
-## Open source initiatives
+## 1.7 Open source initiatives
 
 #### NeuralEnsemble
 
