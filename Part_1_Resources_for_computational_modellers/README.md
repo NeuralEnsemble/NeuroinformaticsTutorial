@@ -8,7 +8,7 @@
 
 #### CRCNS
 
-#### HBP Neuroinformatics
+#### HBP Neuroinformatics/KnowledgeSpace/NIF
 	
 #### NeuroMorpho
 
