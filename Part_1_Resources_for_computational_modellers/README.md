@@ -8,13 +8,9 @@
 
 #### CRCNS
 
-#### HBP Neuroinformatics/KnowledgeSpace/NIF
+#### HBP Neuroinformatics
 	
 #### NeuroMorpho
-
-#### Drosophila: Virtual Fly Brain
- 
-#### C. elegans: WormBase/WormAtlas
 
 
 ## 1.2 Structured data from literature 
@@ -94,4 +90,14 @@ Rescience...
 #### [BigNeuron](https://alleninstitute.org/bigneuron)
 
 #### Neurokernel/Fruit Fly Brain Observatory
+
+## 1.8 Web portals
+
+#### NIF
+
+#### KnowledgeSpace
+
+#### Drosophila: Virtual Fly Brain
+ 
+#### C. elegans: WormBase/WormAtlas
  
