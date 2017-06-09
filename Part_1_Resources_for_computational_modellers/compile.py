@@ -3,7 +3,7 @@ from subprocess import call
 
 from pdfrw import PdfReader, PdfWriter
           
-sections = ['Introduction','1_Experimental_datasets', '2_Structured_data_from_literature', '3_Analysis_tools', '4_Simulation_environments', '5_Model_sharing', '6_Computing_infrastructure', '7_Open_source_initiatives']
+sections = ['Introduction','1_Experimental_datasets', '2_Structured_data_from_literature', '3_Analysis_tools', '4_Simulation_environments', '5_Model_sharing', '6_Computing_infrastructure', '7_Open_source_initiatives', '8_Web_portals']
 #sections = ['Introduction','1_Experimental_datasets', '2_Structured_data_from_literature']
 
 big_file = PdfWriter()
