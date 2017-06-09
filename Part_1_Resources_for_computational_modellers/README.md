@@ -65,7 +65,8 @@
 #### Geppetto
 
 #### GitHub
-Rescience...
+
+#### Rescience
  
 
 
@@ -87,7 +88,7 @@ Rescience...
 
 #### OpenWorm
 
-#### [BigNeuron](https://alleninstitute.org/bigneuron)
+#### BigNeuron
 
 #### Neurokernel/Fruit Fly Brain Observatory
 
@@ -100,4 +101,6 @@ Rescience...
 #### Drosophila: Virtual Fly Brain
  
 #### C. elegans: WormBase/WormAtlas
+
+#### NITRC
  
