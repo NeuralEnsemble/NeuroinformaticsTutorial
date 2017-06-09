@@ -79,7 +79,7 @@
 
 #### AWS
 
-#### Binder.org
+#### MyBinder.org
  
  
 
