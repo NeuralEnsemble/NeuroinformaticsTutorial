@@ -38,7 +38,6 @@
 
 
 ## 1.4 Simulation environments 
-(v brief intro here, covered in other tutorials...)
 
 #### NEURON
 
