@@ -48,7 +48,9 @@
 
 #### MOOSE
 
-#### Nengo? 
+#### Nengo
+
+#### The Virtual Brain
  
  
 
