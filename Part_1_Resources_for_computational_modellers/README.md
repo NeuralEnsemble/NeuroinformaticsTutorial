@@ -100,8 +100,6 @@
 #### KnowledgeSpace
 
 #### Drosophila: Virtual Fly Brain
- 
-#### C. elegans: WormBase/WormAtlas
 
 #### NITRC
  
