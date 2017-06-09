@@ -19,7 +19,7 @@
 
 #### Hippocampome.org
 
-#### Bezaire CA1 model
+#### Bezaire et al. CA1 data/model
 
 #### Ion Channel Genealogy 
  
