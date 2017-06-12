@@ -10,7 +10,7 @@
 
 #### HBP Neuroinformatics
 	
-#### NeuroMorpho
+#### NeuroMorpho.Org
 
 
 ## 1.2 Structured data from literature 
