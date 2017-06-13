@@ -1,5 +1,8 @@
-**We thank the following for contributing to this tutorial**
+**We thank the following people for contributing to this tutorial**
 
 Padraig Gleeson
-
 Andrew Davison
+Chris Eliasmith
+Diek W. Wheeler
+
+

@@ -12,7 +12,7 @@ for section in sections:
 
     for f in os.listdir(section):
         fpath = section+'/'+f
-        if os.path.isfile(fpath) and fpath.endswith('pptx'):
+        if os.path.isfile(fpath) and fpath.endswith('pptx') and not f=='Template.pptx':
             print("Incorporating: %s"%fpath)
             call(["libreoffice", "--headless", "--invisible", "--convert-to", "pdf", fpath])
             

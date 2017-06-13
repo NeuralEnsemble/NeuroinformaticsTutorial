@@ -54,7 +54,14 @@ identified over one hundred different neuron types.
 
 #### MOOSE
 
-#### Nengo
+#### [Nengo](http://nengo.github.io/)
+
+Nengo is a graphical and scripting based software package for simulating large-scale 
+spiking and non-spiking neural systems. It supports CPUs, GPUs (single and multi), 
+MPI, and neuromorphic chips.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/Nengo.pptx)
+
 
 #### The Virtual Brain
  
@@ -66,7 +73,13 @@ identified over one hundred different neuron types.
 
 #### OSB
 
-#### NeuroML
+#### [NeuroML](http://www.neuroml.org)
+
+NeuroML is a language for expressing models in computational neuroscience in a 
+simulator independent, standardised format. It can express models from integrate 
+and fire cells to complex networks of multicompartmental neurons.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/NeuroML.pptx)
 
 #### PyNN
 
