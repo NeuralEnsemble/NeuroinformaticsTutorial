@@ -17,7 +17,14 @@
 
 #### Neuroelectro
 
-#### Hippocampome.org
+#### [Hippocampome.org](http://hippocampome.org)
+
+Hippocampome.org is a resource that combines approximately 21,000 pieces of experimental 
+evidence about neuron types in the rodent hippocampus into a unified database. 
+Analyzing these data has revealed about 10,500 different neuron properties and has 
+identified over one hundred different neuron types.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/Hippocampome.pptx)
 
 #### Bezaire et al. CA1 data/model
 
