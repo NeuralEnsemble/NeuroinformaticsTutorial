@@ -75,6 +75,6 @@ We have used this tagging to create easily accessed links to circuits created fr
 
 #### Explore Networks from recent Publications
 
-  In a recent paper by Sun Yi et. al., Neural signatures of dynamic stimulus selection in Drosophila, they describe a feedforward visual pathway from the medulla to the central complex.. We can recreate and explore this network in NeuroNLP, by opening the following [10.1038/nn.4581](https://neuronlp.fruitflybrain.org/index.html?tag=10.1038/nn.4581) Tag.
+  In a recent paper by Sun Yi et. al., Neural signatures of dynamic stimulus selection in Drosophila, they describe a feedforward visual pathway from the medulla to the central complex. We can recreate and explore this network in NeuroNLP, by opening the following [10.1038/nn.4581](https://neuronlp.fruitflybrain.org/index.html?tag=10.1038/nn.4581) Tag.
 
 
