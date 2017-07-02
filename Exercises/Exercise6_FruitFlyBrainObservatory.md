@@ -1,6 +1,18 @@
+# Exploring Brain Circuits with the Fruit Fly Brain Observatory
+
+This file contains a few quick tutorial on how to get started exploring the fruit fly brain using the [Fruit Fly Brain Observatory](http://fruitflybrain.org/) platform. This tutorial contains the following sections:
+- Exploratory Circuit Discovery with NeuroNLP
+    - [Exercise A: Access NeuroNLP and view the Demos](#Access-NeuroNLP-and-view-the-Demos)
+    - [Exercise B: Visualize Neurons in the Ellipsoid body](#Visualize-Neurons-in-the-Ellipsoid-body)
+    - [Exercise C: Explore Fly Medulla Circuit from Janelia EM Data](#Explore-Fly-Medulla-Circuit-from-Janelia-EM-Data)
+    - [Exercise D: Create and share a Tag](#Create-and-share-a-Tag)
+    - [Exercise E: Explore Networks from recent Publications](Explore-Networks-from-recent-Publications)
+- Exploring Brain Circuit Function at Multiple Levels
+    - [TODO]  
+
 ## Exploratory Circuit Discovery with NeuroNLP
 
-This contains a quick tutorial on how to get started exploring the fruit fly brain with [NeuroNLP](https://neuronlp.fruitflybrain.org/), which is part of the [Fruit Fly Brain Observatory](http://fruitflybrain.org/) platform.
+This section contains a few demos on how to get started exploring the fruit fly brain with [NeuroNLP](https://neuronlp.fruitflybrain.org/), which is part of the [Fruit Fly Brain Observatory](http://fruitflybrain.org/) platform.
 
 ### Local software requirements
 
@@ -35,17 +47,19 @@ NeuroNLP contains the morphologies of the Fly Circuit Database. This means we ca
 There are lots of ways you can explore the data in NeuroNLP, check out the demos for more ways to slice and combine the data.
 
 
-#### Explore the Lamina and build up a Cartridge model
+#### Explore Fly Medulla Circuit from Janelia EM Data
 
-NeuroNLP contains the detailed connectomic data of the visual system. We can start out by visualizing all the Lamina neurons in NeuroNLP
+NeuroNLP contains the detailed connectomic data of the [7 column medulla Electro-Microscopy (EM) data](https://github.com/janelia/connectomehackthon2015) published by Janelia research campus. We can start out by visualizing all the Lamina neurons that innervate the Medulla in NeuroNLP
 
     "Show neurons in the Lamina"
 
-We can look at the first layer of neurons in the lamina, the L1 neurons, using:
+Note that the data only contains the part of the neurons in the medulla. Therefore, currently, we can only visualize their axons in the Medulla.
+
+We can look at the axons of the Lamina L1 neurons in the Medulla, using:
 
     "Show L1 neurons in the lamina"
 
-Here we can start to see the columnar nature of the Lamina. We can further look at only a single cartridge in the lamina by using:
+Nevertheless we can start to see the columnar nature of the Lamina. We can further look at only a single cartridge in the lamina by using:
 
     "Show neurons in a single cartridge in the lamina"
 
@@ -53,9 +67,10 @@ We can also start to build up the flow of connectivity in the Lamina, by startin
 
     "Show L1  neurons in a single cartridge in the lamina"
 
-As we are using the connectomic data, we can start to build up the circuit connectomically, by adding the post synaptic neurons:
+As we are using the connectomic data, we can start to build up the circuit connectomically, by adding the postsynaptic Mi1 and Tm3 neurons:
 
-    "Add post synaptic neurons"
+    "Add postsynaptic Mi1 neurons"
+    "Add postsynaptic Tm3 neurons"
 
 We can see a growing circuit of 13 neurons directly connected to the single L1 neuron. We can further run the same command, and build up the neurons 2 synaptic connections away, resulting in 246 neurons.
 From here we can pull back to look at the L2 neurons using
@@ -76,5 +91,17 @@ We have used this tagging to create easily accessed links to circuits created fr
 #### Explore Networks from recent Publications
 
   In a recent paper by Sun Yi et. al., Neural signatures of dynamic stimulus selection in Drosophila, they describe a feedforward visual pathway from the medulla to the central complex. We can recreate and explore this network in NeuroNLP, by opening the following [10.1038/nn.4581](https://neuronlp.fruitflybrain.org/index.html?tag=10.1038/nn.4581) Tag.
+
+
+## Exploring Brain Circuit Function at Multiple Levels
+
+This section contains a few demos on how to explore executable brain circuits in [NeuroGFX](https://neurogfx.fruitflybrain.org/).
+
+
+<!-- ### Local software requirements
+
+None, apart from an up to date web browser  -->
+
+### Instructions
 
 
