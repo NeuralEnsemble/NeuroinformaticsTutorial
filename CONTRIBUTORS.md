@@ -9,3 +9,6 @@ Chris Eliasmith
 Diek W. Wheeler
 
 Adam Tomkins
+
+Terri Gilbert
+
