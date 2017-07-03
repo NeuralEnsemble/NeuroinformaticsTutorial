@@ -172,12 +172,19 @@ MPI, and neuromorphic chips.
 
 #### ModelDB
 
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+ModelDB promotes discoverability and reproducibility of computational neuroscience 
+research by serving as a platform for curated sharing and visualization of published models.
+
+[Website](http://modeldb.yale.edu)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/1_ModelDB.pptx)
 
 
 #### OSB
 
 ...
+
+[Website](http://www.opensourcebrian.org)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/2_OSB.pptx)
 
 #### NeuroML
 
@@ -202,7 +209,13 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### Rescience
 
-... 
+Reproducible Science is good, Replicated Science is Better. 
+
+ReScience is a scientific journal dedicated to the publication of replication in computational sciences. 
+ 
+
+[Website](http://rescience.github.io)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/7_ReScience.pptx)
 
 
 ## 1.6 Computing infrastructure

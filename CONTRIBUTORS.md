@@ -21,3 +21,7 @@ Rick Gerkin
 Shreejoy Tripathy 
 
 Robert McDougal 
+
+Nicolas P. Rougier
+
+Konrad Hinsen
