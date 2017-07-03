@@ -85,14 +85,23 @@ identified over one hundred different neuron types.
 [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
 
 
-#### NeuronUnit
+#### [NeuronUnit](http://neuronunit.scidash.org)
 
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+NeuronUnit facilitates data-driven validation of neurophysiology models, testing 
+these models for agreement with experimental data.  Progress in model development 
+or appropriateness of published models can be evaluated according to performance 
+on these tests.  
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/3_NeuronUnit.pptx)
 
 
-#### Neurodata Without Borders & related tools
+#### [Neurodata Without Borders & related tools](http://nwb.org)
 
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+A data format designed for storing neurophysiology data and related metadata in 
+a structured manner.  It currently stores the data within HDF5 files.  A write 
+API is available in Python and Matlab.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/4_NWB.pptx)
 
  
 
