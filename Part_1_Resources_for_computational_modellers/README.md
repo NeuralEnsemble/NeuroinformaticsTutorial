@@ -8,6 +8,9 @@ A multimodal database of single cell characterization to enable data-driven appr
 to classification. Key features include: whole cell patch clamping, raw images and 
 morphological reconstructions, a variety of abstract point models as well as 
 biophysically detailed compartmental models, and single cell RNA sequencing data.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/1_CellTypesDatabase.pptx)
+
     
 #### [Allen Brain Observatory](http://observatory.brain-map.org/visualcoding)
 
@@ -15,11 +18,17 @@ The Allen Brain Observatory is an in vivo survey of physiological activity in th
 mouse visual cortex, featuring representations of visually evoked calcium responses 
 from GCaMP6-expressing neurons in selected cortical layers, visual areas and Cre lines. 
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/2_AllenBrainObservatory.pptx)
+
+
 #### [CRCNS](http://crcns.org/)
 
 A public repository hosting freely available neurophysiology and behavioural data 
 useful for computational neuroscience.  Includes data from a variety of species 
 and brain regions and species.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/3_crcns_org.pptx)
+
 
 #### HBP Neuroinformatics
 
@@ -36,7 +45,14 @@ of publicly accessible 3D neuronal reconstructions and associated metadata.
 
 ## 1.2 Structured data from literature 
 
-#### Neuroelectro
+#### [Neuroelectro](http://neuroelectro.org)
+
+The goal of the NeuroElectro Project is to extract information about the intrinsic 
+electrophysiological properties of diverse neuron types from the neuroscience 
+literature and place it into a centralized database for widespread comparison, 
+reuse, and reanalysis.
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/1_NeuroElectro.pptx)
 
 #### [Hippocampome.org](http://hippocampome.org)
 
@@ -49,19 +65,35 @@ identified over one hundred different neuron types.
 
 #### Bezaire et al. CA1 data/model
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 #### Ion Channel Genealogy 
- 
+
+ [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
  
 
 ## 1.3 Analysis tools
 
 #### Elephant
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 #### Neo
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### NeuronUnit
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### Neurodata Without Borders & related tools
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
  
 
 
@@ -69,11 +101,23 @@ identified over one hundred different neuron types.
 
 #### NEURON
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### Brian
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### NEST
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### MOOSE
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### [Nengo](http://nengo.github.io/)
 
@@ -85,6 +129,9 @@ MPI, and neuromorphic chips.
 
 
 #### The Virtual Brain
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
  
  
 
@@ -92,7 +139,13 @@ MPI, and neuromorphic chips.
 
 #### ModelDB
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### OSB
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### [NeuroML](http://www.neuroml.org)
 
@@ -104,11 +157,23 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### PyNN
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### Geppetto
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### GitHub
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### Rescience
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
  
 
 
@@ -116,11 +181,23 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### NSG
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### HBP Collaboratory
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### AWS
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### MyBinder.org
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
  
  
 
@@ -128,19 +205,43 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### NeuralEnsemble
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### OpenWorm
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### BigNeuron
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### Neurokernel/Fruit Fly Brain Observatory
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 ## 1.8 Web portals
 
 #### NIF
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### KnowledgeSpace
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
 
 #### Drosophila: Virtual Fly Brain
 
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
+
 #### NITRC
+
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/)
+
  

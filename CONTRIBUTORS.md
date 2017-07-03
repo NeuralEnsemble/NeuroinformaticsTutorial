@@ -15,3 +15,7 @@ Terri Gilbert
 Jeff Teeters
 
 Fritz Sommer 
+
+Rick Gerkin
+
+Shreejoy Tripathy 
