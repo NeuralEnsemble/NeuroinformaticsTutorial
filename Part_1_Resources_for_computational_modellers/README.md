@@ -129,7 +129,13 @@ API is available in Python and Matlab.
 
 #### NEURON
 
-...
+NEURON is a tool for developing, simulating, and analysing empirically-based models 
+of neurons and networks of neurons. NEURON supports all classes of spiking models 
+and runs on both desktops and supercomputers.
+
+[Website](http://neuron.yale.edu)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/1_NEURON.pptx)
+
 
 #### Brian
 

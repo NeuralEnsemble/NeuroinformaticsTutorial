@@ -9,21 +9,22 @@ sections = ['Introduction','1_Experimental_datasets', '2_Structured_data_from_li
 
 for section in sections:
 
+    print("++++++++++++++++++++++++++++++++++\n+  Adding section: %s\n+"%section)
     big_file = PdfWriter()
     
     files = os.listdir(section)
     
-    sorted(files)
+    files = sorted(files)
     
     for f in files:
         fpath = section+'/'+f
         if os.path.isfile(fpath) and fpath.endswith('pptx') and not f=='Template.pptx':
-            print("Incorporating: %s"%fpath)
+            print("+   Incorporating: %s"%fpath)
             call(["libreoffice", "--headless", "--invisible", "--convert-to", "pdf", fpath])
             pdf_file_name = f.replace('pptx','pdf')
             
             pdf_file = PdfReader(pdf_file_name)
-            print("  Adding pages from %s"%pdf_file_name)
+            print("+     Adding pages from %s\n+"%pdf_file_name)
             big_file.addpages(pdf_file.pages)
             call(["mv", pdf_file_name, "temp"])
         
