@@ -1,5 +1,11 @@
 # Part 1 - Resources for computational modellers
 
+## Introduction
+
+[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_Introduction.pdf)
+
+
+
 ## 1.1 Experimental datasets
 
 [All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_1_Experimental_datasets.pdf)
@@ -266,11 +272,28 @@ _**Volunteer welcome to contribute short intro to AWS for computational scientis
 
 #### BigNeuron
 
-...
+BigNeuron is a community effort to define and advance state-of-the-art of single 
+neuron reconstruction: an essential unsolved challenge in brain science. The 
+project will both standardize the methods to generate high quality and consistent 
+data, and mobilize the reconstruction community to generate interest in solving 
+these complex and interesting algorithmic problems.
 
-#### Neurokernel/Fruit Fly Brain Observatory
+[Website](https://alleninstitute.org/bigneuron)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/3_BigNeuron.pptx)
 
-...
+
+
+
+#### Fruit Fly Brain Observatory
+
+An open-source collaborative research platform that integrates biological data 
+with computational models, and serves as a meeting ground for researchers to 
+study fruit fly brain function in health and disease.
+
+[Website](http://fruitflybrain.org)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/4_FruitFlyBrainObservatory.pptx)
+
+
 
 ## 1.8 Web portals
 
