@@ -226,7 +226,15 @@ ReScience is a scientific journal dedicated to the publication of replication in
 
 #### NSG
 
-...
+NSG facilitates access and use of High Performance Computing resources freely and 
+openly for the neuroscience community via web-based and programmatic (RESTful API) 
+access. Various computational neuroscience tools, libraries, pipelines and data 
+processing software are made available on HPC resources.
+
+[Website](http://www.nsgportal.org/)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/6_Computing_infrastructure/1_Neuroscience_Gateway.pptx)
+
+
 
 #### HBP Collaboratory
 
