@@ -11,7 +11,11 @@ for section in sections:
 
     big_file = PdfWriter()
     
-    for f in os.listdir(section):
+    files = os.listdir(section)
+    
+    sorted(files)
+    
+    for f in files:
         fpath = section+'/'+f
         if os.path.isfile(fpath) and fpath.endswith('pptx') and not f=='Template.pptx':
             print("Incorporating: %s"%fpath)

@@ -12,3 +12,6 @@ Adam Tomkins
 
 Terri Gilbert
 
+Jeff Teeters
+
+Fritz Sommer 

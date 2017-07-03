@@ -15,11 +15,23 @@ The Allen Brain Observatory is an in vivo survey of physiological activity in th
 mouse visual cortex, featuring representations of visually evoked calcium responses 
 from GCaMP6-expressing neurons in selected cortical layers, visual areas and Cre lines. 
 
-#### CRCNS
+#### [CRCNS](http://crcns.org/)
+
+A public repository hosting freely available neurophysiology and behavioural data 
+useful for computational neuroscience.  Includes data from a variety of species 
+and brain regions and species.
 
 #### HBP Neuroinformatics
+
+...
 	
-#### NeuroMorpho.Org
+#### [NeuroMorpho.Org](http://neuromorpho.org/)
+
+ NeuroMorpho.Org is a centrally curated inventory of digitally reconstructed neurons 
+associated with peer-reviewed publications. It contains contributions from over 200 
+laboratories worldwide and is continuously updated as new morphological reconstructions 
+are collected, published, and shared. To date, NeuroMorpho.Org is the largest collection 
+of publicly accessible 3D neuronal reconstructions and associated metadata. 
 
 
 ## 1.2 Structured data from literature 
