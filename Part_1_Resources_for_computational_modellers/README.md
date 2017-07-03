@@ -2,9 +2,18 @@
 
 ## 1.1 Experimental datasets
 
-#### Allen Cell Types Database
+#### [Allen Cell Types Database](http://celltypes.brain-map.org/)
+
+A multimodal database of single cell characterization to enable data-driven approaches 
+to classification. Key features include: whole cell patch clamping, raw images and 
+morphological reconstructions, a variety of abstract point models as well as 
+biophysically detailed compartmental models, and single cell RNA sequencing data.
     
-#### Allen Brain Observatory
+#### [Allen Brain Observatory](http://observatory.brain-map.org/visualcoding)
+
+The Allen Brain Observatory is an in vivo survey of physiological activity in the 
+mouse visual cortex, featuring representations of visually evoked calcium responses 
+from GCaMP6-expressing neurons in selected cortical layers, visual areas and Cre lines. 
 
 #### CRCNS
 
