@@ -205,7 +205,9 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### GitHub
 
-...
+_**Volunteer welcome to contribute short intro to Github for computational scientists**_
+
+[Website](https://github.com)
 
 #### Rescience
 
@@ -230,9 +232,11 @@ ReScience is a scientific journal dedicated to the publication of replication in
 
 ...
 
-#### AWS
+#### Amazon Web Services
 
-..
+_**Volunteer welcome to contribute short intro to AWS for computational scientists**_
+
+[Website](https://aws.amazon.com/)
 
 #### MyBinder.org
 
