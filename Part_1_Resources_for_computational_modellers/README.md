@@ -87,9 +87,12 @@ identified over one hundred different neuron types.
 
 #### Ion Channel Genealogy 
 
-...
+The ICG database provides a comprehensive and quantitative assay of
+ion channel models currently available in the neuroscientific modeling
+community, all browsable in interactive visualizations.
 
-
+[Website](https://icg.neurotheory.ox.ac.uk)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/4_ICG.pptx)
  
 
 ## 1.3 Analysis tools
