@@ -322,9 +322,16 @@ study fruit fly brain function in health and disease.
 
 ...
 
-#### Drosophila: Virtual Fly Brain
+#### Virtual Fly Brain
 
-...
+A data integration hub for Drosophila neurobiology, integrating disparate, 
+large-scale datasets and linking them to curated literature and other resources. 
+VFB provides the data to generate circuit hypotheses and identify research tools 
+to test them.
+
+[Website](https://www.virtualflybrain.org)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/3_VirtualFlyBrain.pptx)
+
 
 #### NITRC
 
