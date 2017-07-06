@@ -146,9 +146,14 @@ and runs on both desktops and supercomputers.
 [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/1_NEURON.pptx)
 
 
-#### Brian
+#### Brian 2
 
-...
+Brian 2 is a free, open source simulator for spiking neural networks. It is 
+designed to be easy to learn and use, highly flexible and easily extensible.
+
+[Website](http://briansimulator.org/)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/2_Brian.pptx)
+
 
 #### NEST
 
