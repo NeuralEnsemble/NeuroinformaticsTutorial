@@ -149,7 +149,13 @@ and runs on both desktops and supercomputers.
 
 #### NEST
 
-...
+NEST is a simulator for spiking neural network models focussing on the dynamics, 
+size and structure of neural systems rather than on the exact morphology of 
+individual neurons. NEST is ideal for networks of spiking neurons of any size, 
+from individual neurons to whole-brain models.
+
+[Website](http://www.nest-simulator.org/)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/3_NEST.pptx)
 
 #### MOOSE
 
