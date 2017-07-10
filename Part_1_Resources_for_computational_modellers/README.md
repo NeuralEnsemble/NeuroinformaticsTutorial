@@ -273,10 +273,15 @@ _**Volunteer welcome to contribute short intro to AWS for computational scientis
 
 [Website](https://aws.amazon.com/)
 
-#### MyBinder.org
+#### Binder
 
-...
- 
+Turn a GitHub repo into a collection of interactive notebooks.
+Open those notebooks in an executable environment, making your code immediately 
+reproducible by anyone, anywhere.
+
+[Website](http://mybinder.org/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/6_Computing_infrastructure/4_Binder.pptx)
+
  
 
 ## 1.7 Open source initiatives
