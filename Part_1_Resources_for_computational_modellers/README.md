@@ -18,7 +18,7 @@ morphological reconstructions, a variety of abstract point models as well as
 biophysically detailed compartmental models, and single cell RNA sequencing data.
 
 [Website](http://celltypes.brain-map.org/)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/1_CellTypesDatabase.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/1_CellTypesDatabase.pptx)
 
     
 #### Allen Brain Observatory
@@ -28,7 +28,7 @@ mouse visual cortex, featuring representations of visually evoked calcium respon
 from GCaMP6-expressing neurons in selected cortical layers, visual areas and Cre lines. 
 
 [Website](http://observatory.brain-map.org/visualcoding)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/2_AllenBrainObservatory.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/2_AllenBrainObservatory.pptx)
 
 
 #### CRCNS
@@ -38,7 +38,7 @@ useful for computational neuroscience.  Includes data from a variety of species
 and brain regions and species.
 
 [Website](http://crcns.org/)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/3_crcns_org.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/3_crcns_org.pptx)
 
 
 #### HBP Neuroinformatics
@@ -69,7 +69,7 @@ literature and place it into a centralized database for widespread comparison,
 reuse, and reanalysis.
 
 [Website](http://neuroelectro.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/1_NeuroElectro.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/1_NeuroElectro.pptx)
 
 #### Hippocampome.org
 
@@ -79,7 +79,7 @@ Analyzing these data has revealed about 10,500 different neuron properties and h
 identified over one hundred different neuron types.
 
 [Website](http://hippocampome.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/Hippocampome.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/Hippocampome.pptx)
 
 #### Bezaire et al. CA1 data/model
 
@@ -92,7 +92,7 @@ ion channel models currently available in the neuroscientific modeling
 community, all browsable in interactive visualizations.
 
 [Website](https://icg.neurotheory.ox.ac.uk)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/4_ICG.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/4_ICG.pptx)
  
 
 ## 1.3 Analysis tools
@@ -116,7 +116,7 @@ or appropriateness of published models can be evaluated according to performance
 on these tests.  
 
 [Website](http://neuronunit.scidash.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/3_NeuronUnit.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/3_NeuronUnit.pptx)
 
 
 #### Neurodata Without Borders & related tools
@@ -126,7 +126,7 @@ a structured manner.  It currently stores the data within HDF5 files.  A write
 API is available in Python and Matlab.
 
 [Website](http://nwb.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/4_NWB.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/4_NWB.pptx)
 
  
 
@@ -143,7 +143,7 @@ of neurons and networks of neurons. NEURON supports all classes of spiking model
 and runs on both desktops and supercomputers.
 
 [Website](http://neuron.yale.edu)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/1_NEURON.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/1_NEURON.pptx)
 
 
 #### Brian 2
@@ -152,7 +152,7 @@ Brian 2 is a free, open source simulator for spiking neural networks. It is
 designed to be easy to learn and use, highly flexible and easily extensible.
 
 [Website](http://briansimulator.org/)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/2_Brian.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/2_Brian.pptx)
 
 
 #### NEST
@@ -163,7 +163,7 @@ individual neurons. NEST is ideal for networks of spiking neurons of any size,
 from individual neurons to whole-brain models.
 
 [Website](http://www.nest-simulator.org/)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/3_NEST.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/3_NEST.pptx)
 
 #### MOOSE
 
@@ -176,7 +176,7 @@ spiking and non-spiking neural systems. It supports CPUs, GPUs (single and multi
 MPI, and neuromorphic chips.
 
 [Website](http://nengo.github.io/)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/Nengo.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/Nengo.pptx)
 
 
 #### The Virtual Brain
@@ -196,7 +196,7 @@ ModelDB promotes discoverability and reproducibility of computational neuroscien
 research by serving as a platform for curated sharing and visualization of published models.
 
 [Website](http://modeldb.yale.edu)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/1_ModelDB.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/1_ModelDB.pptx)
 
 
 #### OSB
@@ -204,7 +204,7 @@ research by serving as a platform for curated sharing and visualization of publi
 ...
 
 [Website](http://www.opensourcebrian.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/2_OSB.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/2_OSB.pptx)
 
 #### NeuroML
 
@@ -213,7 +213,7 @@ simulator independent, standardised format. It can express models from integrate
 and fire cells to complex networks of multicompartmental neurons.
 
 [Website](http://www.neuroml.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/NeuroML.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/NeuroML.pptx)
 
 #### PyNN
 
@@ -237,7 +237,7 @@ ReScience is a scientific journal dedicated to the publication of replication in
  
 
 [Website](http://rescience.github.io)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/7_ReScience.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/7_ReScience.pptx)
 
 
 ## 1.6 Computing infrastructure
@@ -252,7 +252,7 @@ access. Various computational neuroscience tools, libraries, pipelines and data
 processing software are made available on HPC resources.
 
 [Website](http://www.nsgportal.org/)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/6_Computing_infrastructure/1_Neuroscience_Gateway.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/6_Computing_infrastructure/1_Neuroscience_Gateway.pptx)
 
 
 
@@ -293,7 +293,7 @@ data, and mobilize the reconstruction community to generate interest in solving
 these complex and interesting algorithmic problems.
 
 [Website](https://alleninstitute.org/bigneuron)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/3_BigNeuron.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/3_BigNeuron.pptx)
 
 
 
@@ -305,7 +305,7 @@ with computational models, and serves as a meeting ground for researchers to
 study fruit fly brain function in health and disease.
 
 [Website](http://fruitflybrain.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/4_FruitFlyBrainObservatory.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/4_FruitFlyBrainObservatory.pptx)
 
 
 
@@ -330,7 +330,7 @@ VFB provides the data to generate circuit hypotheses and identify research tools
 to test them.
 
 [Website](https://www.virtualflybrain.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/3_VirtualFlyBrain.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/3_VirtualFlyBrain.pptx)
 
 
 #### NITRC
