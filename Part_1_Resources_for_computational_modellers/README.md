@@ -167,7 +167,14 @@ from individual neurons to whole-brain models.
 
 #### MOOSE
 
-...
+MOOSE is designed to simulate neural systems ranging from biochemical signaling to 
+complex models of single neurons, circuits, and large networks. MOOSE can operate 
+at many levels of detail, from stochastic chemical computations, to multicompartment 
+single-neuron models, to spiking neuron network models.
+
+[Website](https://github.com/BhallaLab/moose)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/4_MOOSE.pptx)
+
 
 #### Nengo
 
