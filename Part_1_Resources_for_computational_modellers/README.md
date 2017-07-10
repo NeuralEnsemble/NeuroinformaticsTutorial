@@ -289,7 +289,11 @@ _**Volunteer welcome to contribute short intro to AWS for computational scientis
 
 #### OpenWorm
 
-OpenWorm aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm. With only a thousand cells, it solves basic problems such as feeding, mate-finding and predator avoidance. Despite being extremely well studied in biology, this organism still eludes a deep, principled understanding of its biology.
+OpenWorm aims to build the first comprehensive computational model of the 
+Caenorhabditis elegans (C. elegans), a microscopic roundworm. With only a thousand 
+cells, it solves basic problems such as feeding, mate-finding and predator avoidance. 
+Despite being extremely well studied in biology, this organism still eludes a deep, 
+principled understanding of its biology.
 
 [Website](http://openworm.org)
 [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/2_OpenWorm.pptx)
