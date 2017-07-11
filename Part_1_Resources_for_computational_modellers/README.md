@@ -228,7 +228,18 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### Geppetto
 
-..
+Geppetto is a web-based visualisation and simulation platform engineered to 
+explore complex biological systems. In use by a number of neuroinformatics resources 
+including Open Source Brain and Virtual Fly Brain, Geppetto facilitates integration of 
+diverse data and models, and can support different standard formats for both experimental 
+and computational data.
+
+
+[Website](http://geppetto.org)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/5_Geppetto.pptx)
+
+
+
 
 #### GitHub
 
