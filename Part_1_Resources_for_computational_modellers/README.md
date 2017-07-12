@@ -54,7 +54,7 @@ are collected, published, and shared. To date, NeuroMorpho.Org is the largest co
 of publicly accessible 3D neuronal reconstructions and associated metadata. 
 
 [Website](http://neuromorpho.org/)
-Slides
+| Slides
 
 ## 1.2 Structured data from literature 
 
@@ -208,7 +208,11 @@ research by serving as a platform for curated sharing and visualization of publi
 
 #### OSB
 
-...
+The Open Source Brain initiative (OSB) makes computational models of neurons and 
+networks available in open source, standardized formats such as NeuroML and PyNN, 
+encouraging collaborative development. Models and model components can be viewed, 
+analysed and their functional behaviour explored through online simulations in 
+standard web browsers. 
 
 [Website](http://www.opensourcebrian.org)
 | [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/2_OSB.pptx)
