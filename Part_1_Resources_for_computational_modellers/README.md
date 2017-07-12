@@ -277,11 +277,6 @@ processing software are made available on HPC resources.
 | [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/6_Computing_infrastructure/1_Neuroscience_Gateway.pptx)
 
 
-
-#### HBP Collaboratory
-
-...
-
 #### Amazon Web Services
 
 _**Volunteer welcome to contribute short intro to AWS for computational scientists**_
@@ -346,6 +341,17 @@ study fruit fly brain function in health and disease.
 ## 1.8 Web portals
 
 [All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_8_Web_portals.pdf)
+
+
+#### HBP Collaboratory
+
+The HBP Collaboratory collects tools from the HBP Platforms in one place and allows
+you to organize them into your own collaborative workspace or collab.
+Information on how to request an account can be found here:
+https://www.humanbrainproject.eu/en/hbp-platforms/getting-access
+
+[Website](https://collab.humanbrainproject.eu/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/4_HBPCollaboratory.pptx)
 
 
 #### NIF
