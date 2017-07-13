@@ -290,9 +290,13 @@ processing software are made available on HPC resources.
 
 #### Amazon Web Services
 
-_**Volunteer welcome to contribute short intro to AWS for computational scientists**_
+Amazon Web Services (AWS) is a cloud computing platform by Amazon which provides 
+on demand or 24/7 access to virtual computing resources such as computing (CPU & 
+GPU), storage, databases, etc.
 
 [Website](https://aws.amazon.com/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/6_Computing_infrastructure/2_AWS.pptx)
+
 
 #### Binder
 
