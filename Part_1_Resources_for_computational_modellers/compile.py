@@ -1,6 +1,7 @@
 import os
 import sys
 from subprocess import call
+import platform
 
 from pdfrw import PdfReader, PdfWriter
           
@@ -27,7 +28,10 @@ for section in sections:
             fpath = section+'/'+f
             if os.path.isfile(fpath) and fpath.endswith('pptx') and not f=='Template.pptx':
                 print("+   Incorporating: %s"%fpath)
-                call(["/Applications/LibreOffice.app/Contents/MacOS/soffice", "--headless", "--invisible", "--convert-to", "pdf", fpath])
+                cmd = "libreoffice"
+                if platform.system()=='Darwin':
+                    cmd = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
+                call([cmd, "--headless", "--invisible", "--convert-to", "pdf", fpath])
                 pdf_file_name = f.replace('pptx','pdf')
 
                 pdf_file = PdfReader(pdf_file_name)

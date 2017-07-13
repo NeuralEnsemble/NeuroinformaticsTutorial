@@ -40,10 +40,10 @@ and brain regions and species.
 [Website](http://crcns.org/)
 | [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/3_crcns_org.pptx)
 
-
+<!--  TODO...
 #### HBP Neuroinformatics
 
-...
+...-->
 	
 #### NeuroMorpho.Org
 
