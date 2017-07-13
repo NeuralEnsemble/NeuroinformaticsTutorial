@@ -188,7 +188,14 @@ MPI, and neuromorphic chips.
 
 #### The Virtual Brain
 
-...
+The Virtual Brain (TVB) is a neuroinformatics platform for full brain network 
+simulations using biologically realistic connectivity. Itenables the model-based 
+inference of neurophysiological mechanisms across different brain scales that 
+underlie the generation of macroscopic neuroimaging signals including functional 
+MRI (fMRI), EEG and MEG. 
+
+[Website](http://www.thevirtualbrain.org)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/6_TVB.pptx)
 
  
  
@@ -247,9 +254,13 @@ and computational data.
 
 #### GitHub
 
-_**Volunteer welcome to contribute short intro to Github for computational scientists**_
+GitHub is a web-based version control repository based on Git and Internet hosting 
+service. It is mostly used for open source code development. It offers all of the 
+distributed version control and source code management functionality of Git as well 
+as adding its own features.
 
 [Website](https://github.com)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/6_GitHub.pptx)
 
 #### Rescience
 
