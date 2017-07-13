@@ -99,13 +99,26 @@ community, all browsable in interactive visualizations.
 
 [All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_3_Analysis_tools.pdf)
 
-#### Elephant
-
-...
 
 #### Neo
 
-...
+Neo is a package for representing electrophysiology data in Python,
+together with support for reading a wide range of neurophysiology file formats,
+including Spike2, NeuroExplorer, AlphaOmega, Axon, Blackrock, Plexon, Tdt,
+and support for writing to a subset of these formats, plus non-proprietary formats including HDF5.
+
+[Website](http://neuralensemble.org/Neo/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/1_Neo.pptx)
+
+
+#### Elephant
+
+Elephant (Electrophysiology Analysis Toolkit) is an open-source, community centered library
+for the analysis of electrophysiology data in the Python programming language.
+
+[Website](http://neuralensemble.org/Elephant/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/3_Analysis_tools/2_Elephant.pptx)
+
 
 
 #### NeuronUnit
@@ -235,7 +248,15 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### PyNN
 
-...
+PyNN (pronounced 'pine') is a simulator-independent language for building neuronal network models.
+
+In other words, you can write the code for a model once, using the PyNN API
+and the Python programming language, and then run it without modification 
+on any simulator that PyNN supports (currently NEURON, NEST, and Brian),
+and on the SpiNNaker and BrainScaleS neuromorphic hardware systems.
+
+[Website](http://neuralensemble.org/PyNN/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/4_PyNN.pptx)
 
 #### Geppetto
 
@@ -315,7 +336,12 @@ reproducible by anyone, anywhere.
 
 #### NeuralEnsemble
 
-...
+NeuralEnsemble is a community-based initiative to promote and co-ordinate 
+open-source software development in neuroscience.
+
+[Website](http://neuralensemble.org)
+[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/1_NeuralEnsemble.pptx)
+
 
 #### OpenWorm
 
