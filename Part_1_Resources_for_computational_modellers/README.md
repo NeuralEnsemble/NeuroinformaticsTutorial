@@ -42,7 +42,7 @@ and brain regions and species.
 
 <!--  TODO...
 #### HBP Neuroinformatics
-
+ 
 ...-->
 	
 #### NeuroMorpho.Org
@@ -54,7 +54,7 @@ are collected, published, and shared. To date, NeuroMorpho.Org is the largest co
 of publicly accessible 3D neuronal reconstructions and associated metadata. 
 
 [Website](http://neuromorpho.org/)
-| Slides
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/1_Experimental_datasets/5_NeuroMorpho.org.pptx)
 
 ## 1.2 Structured data from literature 
 
@@ -83,7 +83,12 @@ identified over one hundred different neuron types.
 
 #### Bezaire et al. CA1 data/model
 
-...
+An interactive anatomical database, graphical representation and full scale model 
+of hippocampal area CA1
+
+[Website](http://www.mariannebezaire.com/ca1_graphic)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/3_CA1.pptx)
+
 
 #### Ion Channel Genealogy 
 
@@ -422,5 +427,11 @@ to test them.
 
 #### NITRC
 
-..
+Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC) is a free 
+one-stop-shop collaboratory for science researchers that need resources such as 
+neuroimaging analysis software, publicly available data sets, or computing power. 
+
+[Website](https://www.nitrc.org/)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/8_Web_portals/5_NITRC.pptx)
+
  
