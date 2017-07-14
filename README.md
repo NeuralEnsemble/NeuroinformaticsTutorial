@@ -1,8 +1,8 @@
 ## Neuroinformatics Tutorial
 
-**Work in progress!!**
+This repository contains slide presentations for a tutorial on neuroinformatics resources for computational modellers. 
 
-This repository will host slide presentations for a tutorial on neuroinformatics resources for computational modellers. 
+![logos](Exercises/images/Logos.png)
 
 
 ### Summary
