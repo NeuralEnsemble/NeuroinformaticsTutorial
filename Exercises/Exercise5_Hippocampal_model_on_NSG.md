@@ -5,7 +5,7 @@
  
  ... 
  
- - Download CA1 model
+ - Download local copy of CA1 model
  
  ...
  

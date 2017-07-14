@@ -1,14 +1,16 @@
 
-## Run neuronal model on Human Brain Project collaboratory
+## Run neuronal model on Human Brain Project Collaboratory
 
-- Sign in to HBP collaboratory
 
-...
+This will be an interactive demonstration with the following steps
+
+
+- Sign in to HBP Collaboratory
+
+
 
 - Create new Jupyter notebook
 
-...
 
-- Run Neuron/Nest model (from ModelDB?)
+- Run Neuron/Nest models
 
-...
