@@ -248,8 +248,7 @@ and fire cells to complex networks of multicompartmental neurons.
 
 #### PyNN
 
-PyNN (pronounced 'pine') is a simulator-independent language for building neuronal network models.
-
+PyNN (pronounced 'pine') is a simulator-independent language for building neuronal network models. 
 In other words, you can write the code for a model once, using the PyNN API
 and the Python programming language, and then run it without modification 
 on any simulator that PyNN supports (currently NEURON, NEST, and Brian),
@@ -271,8 +270,6 @@ and computational data.
 | [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/5_Geppetto.pptx)
 
 
-
-
 #### GitHub
 
 GitHub is a web-based version control repository based on Git and Internet hosting 
@@ -285,9 +282,8 @@ as adding its own features.
 
 #### Rescience
 
-Reproducible Science is good, Replicated Science is Better. 
-
-ReScience is a scientific journal dedicated to the publication of replication in computational sciences. 
+Reproducible Science is good, Replicated Science is Better. ReScience is a 
+scientific journal dedicated to the publication of replication in computational sciences. 
  
 
 [Website](http://rescience.github.io)
@@ -397,11 +393,21 @@ https://www.humanbrainproject.eu/en/hbp-platforms/getting-access
 
 #### NIF
 
-..
+The Neuroscience Information Framework (NIF), an initiative of the NIH Blueprint 
+for Neuroscience Research,  is a semantically-enhanced portal to web-based 
+neuroscience resources: data, materials, and tools. NIF has developed search 
+tools, which expose the contents of federated databases and deep or “hidden” web 
+resources hidden from traditional search engines. NIF is designed to serve the 
+neuroscience research community and is actively looking for resource providers 
+to make their resources accessible through NIF.
 
+[Website](https://neuinfo.org)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/1_NeuroscienceInformationFramework.pptx)
+
+<!--
 #### KnowledgeSpace
 
-...
+...-->
 
 #### Virtual Fly Brain
 
