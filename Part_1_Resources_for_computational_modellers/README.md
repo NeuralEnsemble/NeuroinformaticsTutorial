@@ -432,6 +432,6 @@ one-stop-shop collaboratory for science researchers that need resources such as
 neuroimaging analysis software, publicly available data sets, or computing power. 
 
 [Website](https://www.nitrc.org/)
-| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/8_Web_portals/5_NITRC.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/8_Web_portals/5_NITRC.pptx)
 
  
