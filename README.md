@@ -9,7 +9,16 @@ This repository contains slide presentations for a tutorial on neuroinformatics 
  
 Neuroinformatics resources are becoming an essential part of computational investigations in neuroscience. A movement towards making data and software freely available to the community means that more and more experimental datasets, general purpose analysis tools and infrastructure for computational modelling and simulation are available for computational neuroscientists to help build, constrain and validate their models. 
  
-This tutorial will give an overview of the range of neuroinformatics resources currently available to the community. The [first part](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers) will give a brief introduction to a number of these under the headings; **Experimental datasets; Structured data from literature; Analysis tools; Simulation environments; Model sharing; Computing infrastructure; Open source initiatives; Web portals**. 
+This tutorial will give an overview of the range of neuroinformatics resources currently available to the community. The [first part](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers) will give a brief introduction to a number of these under the headings:
+
+- **[Experimental datasets](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#11-experimental-datasets)**
+- **[Structured data from literature](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#12-structured-data-from-literature)**
+- **[Analysis tools](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#13-analysis-tools)**
+- **[Simulation environments](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#14-simulation-environments)**
+- **[Model sharing](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#15-model-sharing)**
+- **[Computing infrastructure](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#16-computing-infrastructure)**
+- **[Open source initiatives](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#17-open-source-initiatives)**
+- **[Web portals**](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Part_1_Resources_for_computational_modellers#18-web-portals)**
 
 The [second part](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/tree/master/Exercises) of the tutorial will involve hands on exercises where multiple resource will be accessed, data transformed and analysed and new models executed. 
 
