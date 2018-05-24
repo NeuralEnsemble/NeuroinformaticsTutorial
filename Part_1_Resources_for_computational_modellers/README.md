@@ -341,7 +341,7 @@ NeuralEnsemble is a community-based initiative to promote and co-ordinate
 open-source software development in neuroscience.
 
 [Website](http://neuralensemble.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/1_NeuralEnsemble.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/1_NeuralEnsemble.pptx)
 
 
 #### OpenWorm
@@ -353,7 +353,7 @@ Despite being extremely well studied in biology, this organism still eludes a de
 principled understanding of its biology.
 
 [Website](http://openworm.org)
-[Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/2_OpenWorm.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/7_Open_source_initiatives/2_OpenWorm.pptx)
 
 #### BigNeuron
 
