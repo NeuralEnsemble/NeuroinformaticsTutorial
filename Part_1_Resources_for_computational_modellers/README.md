@@ -79,7 +79,7 @@ Analyzing these data has revealed about 10,500 different neuron properties and h
 identified over one hundred different neuron types.
 
 [Website](http://hippocampome.org)
-| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/Hippocampome.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/2_Structured_data_from_literature/2_Hippocampome.pptx)
 
 #### Bezaire et al. CA1 data/model
 
@@ -201,7 +201,7 @@ spiking and non-spiking neural systems. It supports CPUs, GPUs (single and multi
 MPI, and neuromorphic chips.
 
 [Website](http://nengo.github.io/)
-| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/Nengo.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/4_Simulation_environments/5_Nengo.pptx)
 
 
 #### The Virtual Brain
@@ -249,7 +249,7 @@ simulator independent, standardised format. It can express models from integrate
 and fire cells to complex networks of multicompartmental neurons.
 
 [Website](http://www.neuroml.org)
-| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/NeuroML.pptx)
+| [Slides](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/5_Model_sharing/3_NeuroML.pptx)
 
 #### PyNN
 
