@@ -2,13 +2,13 @@
 
 ## Introduction
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_Introduction.pdf)
+[All slides in this section as single PDF](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_Introduction.pdf)
 
 
 
 ## 1.1 Experimental datasets
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_1_Experimental_datasets.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_1_Experimental_datasets.pdf)
 
 #### Allen Cell Types Database
 
@@ -58,7 +58,7 @@ of publicly accessible 3D neuronal reconstructions and associated metadata.
 
 ## 1.2 Structured data from literature 
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_2_Structured_data_from_literature.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_2_Structured_data_from_literature.pdf)
 
 
 #### Neuroelectro
@@ -102,7 +102,7 @@ community, all browsable in interactive visualizations.
 
 ## 1.3 Analysis tools
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_3_Analysis_tools.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_3_Analysis_tools.pdf)
 
 
 #### Neo
@@ -151,7 +151,7 @@ API is available in Python and Matlab.
 
 ## 1.4 Simulation environments 
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_4_Simulation_environments.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_4_Simulation_environments.pdf)
 
 
 #### NEURON
@@ -220,7 +220,7 @@ MRI (fMRI), EEG and MEG.
 
 ## 1.5 Model sharing
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_5_Model_sharing.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_5_Model_sharing.pdf)
 
 #### ModelDB
 
@@ -297,7 +297,7 @@ scientific journal dedicated to the publication of replication in computational 
 
 ## 1.6 Computing infrastructure
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_6_Computing_infrastructure.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_6_Computing_infrastructure.pdf)
 
 #### NSG
 
@@ -333,7 +333,7 @@ reproducible by anyone, anywhere.
 
 ## 1.7 Open source initiatives
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_7_Open_source_initiatives.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_7_Open_source_initiatives.pdf)
 
 #### NeuralEnsemble
 
@@ -382,7 +382,7 @@ study fruit fly brain function in health and disease.
 
 ## 1.8 Web portals
 
-[All slides in this section](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_8_Web_portals.pdf)
+[All slides in this section as single PDF]](https://github.com/NeuralEnsemble/NeuroinformaticsTutorial/blob/master/Part_1_Resources_for_computational_modellers/Part1_8_Web_portals.pdf)
 
 
 #### HBP Collaboratory
