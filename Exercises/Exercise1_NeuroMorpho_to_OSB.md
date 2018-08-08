@@ -13,7 +13,7 @@ Pick a cell, e.g. [this one](http://neuromorpho.org/neuron_info.jsp?neuron_name=
 ![NeuroMorpho](images/neuromorpho.png)
 
 Select **3D Neuron Viewer**. This will show a 3D view of the cell in an external 
-window (Java Applet, see below if you have issues). Select in **Save as** the option
+window (a Java Applet running CVapp, see below if you have issues). Select in **Save as** the option
 to download in NeuroML2 format.
 
 ![3D View](images/3Dview.png)
@@ -25,8 +25,13 @@ For Mac you may need to specify where the Java Web Start is located (to run the 
 When it asks which application to open with, navigate to the root directory (not 
 Applications), go to "System" -> "Library" -> "CoreServices" and pick "Java Web Start".
 
-If there is still an issue, just download the SWC version of the morphology (via **Morphology File (Standardized)**)
-or get a copy of the NeuroML 2 file [here](files/A1-May29-IR2-3-G.cell.nml).
+If there is still an issue you can either:
+- download the SWC version of the morphology (via **Morphology File (Standardized)**)
+- convert the SWC file to NeuroML 2 with a local copy of [CVapp](http://github.com/pgleeson/Cvapp-NeuroMorpho.org), the Java application to visualise SWC files
+
+or 
+
+- get a copy of the NeuroML 2 file [here](files/A1-May29-IR2-3-G.cell.nml).
 
 
 
